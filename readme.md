@@ -1,4 +1,1 @@
-# Install
-```shell
-brew install python-tk
-```
+Basic python to plot derivative
